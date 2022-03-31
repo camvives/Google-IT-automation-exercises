@@ -1,0 +1,3 @@
+Juan Perez, 011234567, It support
+Diana Prince, 02234563, Data analyst
+Bruce Banner, 01234567, Full-stack developer 
